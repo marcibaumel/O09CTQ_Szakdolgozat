@@ -1,6 +1,6 @@
-# Baumel Márton - O09CTQ - Szakdolgozat
+# Baumel Márton - O09CTQ - Komplex Tervezés - Szakdolgozat
 
-A Miskolci Egyetemre, Mérnökinformatikus szakára készítendő szakdolgozatom.
+A Miskolci Egyetem, Mérnökinformatikus szakára készítendő szakdolgozatom.
 
 <strong>Témája:</strong> egy magán klinika webalkalmazása
 
