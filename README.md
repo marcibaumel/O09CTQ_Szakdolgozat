@@ -1,4 +1,4 @@
-# Baumel Márton - O09CTQ - Komplex Tervezés - Szakdolgozat
+# Baumel Márton - O09CTQ - Komplex Tervezés/Szakdolgozat
 
 A Miskolci Egyetem, Mérnökinformatikus szakára készítendő szakdolgozatom.
 
