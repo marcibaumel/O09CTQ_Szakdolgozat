@@ -14,3 +14,6 @@ https://docs.google.com/document/d/1OPZehN6P7TbnYhVGLpbw7bnUYMkXHKxYH0OQno12WpQ/
 
 https://www.figma.com/file/2QPEvcpcqPAreiDneODnCN/Private_Clinic?node-id=0%3A1
 
+
+### Utoljára frissítve: 2022.03.06.
+
