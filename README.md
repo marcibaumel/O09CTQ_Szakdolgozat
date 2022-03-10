@@ -8,7 +8,7 @@ A Miskolci Egyetem, Mérnökinformatikus szakára készítendő szakdolgozatom.
 <br>
 <strong>Szakdolgozat elérése:</strong> 
 
-https://docs.google.com/document/d/1OPZehN6P7TbnYhVGLpbw7bnUYMkXHKxYH0OQno12WpQ/edit?usp=sharing
+https://github.com/marcibaumel/O09CTQ_Szakdolgozat/blob/main/Szakdolgozat-O09CTQ-Baumel_Márton.pdf
 <br><br><br>
 <strong>Wireframe/design tervek:</strong> 
 
