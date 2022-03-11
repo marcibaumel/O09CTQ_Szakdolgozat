@@ -2,7 +2,7 @@
 
 A Miskolci Egyetem, Mérnökinformatikus szakára készítendő szakdolgozatom.
 
-<strong>Témája:</strong> egy magán klinika webalkalmazása
+<strong>Témája:</strong> egy magánklinika webalkalmazása
 
 ## Linkek:
 <br>
