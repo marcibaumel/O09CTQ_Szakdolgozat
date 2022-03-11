@@ -11,7 +11,6 @@ A Miskolci Egyetem, Mérnökinformatikus szakára készítendő szakdolgozatom.
 https://github.com/marcibaumel/O09CTQ_Szakdolgozat/blob/main/Szakdolgozat-O09CTQ-Baumel_Márton.pdf
 <br><br><br>
 <strong>Wireframe/design tervek:</strong> 
-
 https://www.figma.com/file/2QPEvcpcqPAreiDneODnCN/Private_Clinic?node-id=0%3A1
 
 
