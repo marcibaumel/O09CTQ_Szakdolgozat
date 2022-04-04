@@ -14,5 +14,5 @@ https://github.com/marcibaumel/O09CTQ_Szakdolgozat/blob/main/Szakdolgozat-O09CTQ
 https://www.figma.com/file/2QPEvcpcqPAreiDneODnCN/Private_Clinic?node-id=0%3A1
 
 
-### Utoljára frissítve: 2022.03.06.
+### Utoljára frissítve: 2022.04.04.
 
